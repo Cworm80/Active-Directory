@@ -24,5 +24,13 @@ Add a new forest then type name of your domain Ex “mynamedomain.com”, then y
 <img>![Picture5](https://github.com/Cworm80/Active-Directory/assets/161678144/f14a8203-4779-469f-9664-a9c0ca4b5f6d)<img>
 
 Once finished click <b> Windows logo > Windows Administrator Tools >
-Active Directory User and Computers.<b> Left side panel this is where you manage your groups in an organization on the domain, from here you can add user to a group , and also create users and add them. To do this right click on domain name > new > and choose option you want, 
+Active Directory User and Computers.<b> 
+
+
+<img>![Picture6](https://github.com/Cworm80/Active-Directory/assets/161678144/4cf6f32d-c6e1-4792-b228-22791a318275)
+<img>
+
+
+
+Left side panel this is where you manage your groups in an organization on the domain, from here you can add user to a group , and also create users and add them. To do this right click on domain name > new > and choose option you want, 
 
