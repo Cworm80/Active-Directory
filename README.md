@@ -35,5 +35,11 @@ Active Directory User and Computers.</b>
 
 
 
-Left side panel is where you manage your groups in an organization on the domain, from here you can add user to a group , and also create users and add them. <b>To do this right click on domain name > new > and choose option you want</b>
+
+Left side panel is where you manage your groups in an organization on the domain, from here you can add user to a group
+
+<img>![Screenshot 2024-04-26 190600](https://github.com/Cworm80/Active-Directory/assets/161678144/9bf740f8-a707-439e-aa3b-d7f6bdef4674)
+<img>
+
+, and also create users and add them. <b>To do this right click on domain name > new > and choose option you want.</b>
 
