@@ -71,6 +71,6 @@ You can create users and add them. <b>To do this right click on domain name > ne
 
 This is the user property, this shows all the information that we can fill out about the user, click account” settings click here this will show how to manage the user password options, you can set whatever options you want.
 
-<img src="https://github.com/Cworm80/Active-Directory/assets/161678144/69756e5d-f3e8-4915-bdaf-138397cd2d09" width="600" height="">
+<img src="https://github.com/Cworm80/Active-Directory/assets/161678144/69756e5d-f3e8-4915-bdaf-138397cd2d09" width="300" height="400">
 
 This is how you setup an Active Directory on a Virtual Machine.
